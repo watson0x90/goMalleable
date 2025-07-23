@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	malleable "github.com/D00Movenok/goMalleable"
+	malleable "github.com/watson0x90/goMalleable"
 )
 
 func TestMalleable_ParsePrintParse(t *testing.T) {
