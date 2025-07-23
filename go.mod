@@ -1,4 +1,4 @@
-module github.com/D00Movenok/goMalleable
+module github.com/watson0x90/goMalleable
 
 go 1.18
 
